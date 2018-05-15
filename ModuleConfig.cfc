@@ -5,7 +5,7 @@ component {
 	this.author 			= "Dominic Watson";
 	this.webURL 			= "";
 	this.description 		= "";
-	this.version			= "1.0.0";
+	this.version			= "1.0.1";
 	this.entryPoint			= "HorseBox";
 	this.modelNamespace		= "HorseBox";
 	this.cfmapping			= "HorseBox";
