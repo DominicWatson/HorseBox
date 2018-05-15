@@ -1,8 +1,8 @@
 {
     "name":"HorseBox",
     "type":"modules",
-    "version":"1.0.0",
-    "location":"dominicwatson/HorseBox#v1.0.0",
+    "version":"1.0.1",
+    "location":"dominicwatson/HorseBox#v1.0.1",
     "author":"Dominic Watson",
     "repository":{
         "type":"git",
