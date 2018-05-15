@@ -1,0 +1,19 @@
+{
+    "name":"HorseBox",
+    "type":"modules",
+    "version":"1.0.0",
+    "location":"dominicwatson/HorseBox#v1.0.0",
+    "author":"Dominic Watson",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/DominicWatson/HorseBox"
+    },
+    "slug":"horsebox",
+    "projectURL":"https://github.com/DominicWatson/HorseBox",
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".travis.yml",
+        "publish.sh"
+    ]
+}
